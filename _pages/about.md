@@ -17,33 +17,30 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master's student from [Tongji University](https://www.tongji.edu.cn/).  I am working in the [TOPS Lab](https://tops.tongji.edu.cn/), and supervised by Professor [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Peng Hang](https://tops.tongji.edu.cn/info/1031/1383.htm). Simultaneously, I am interning at [UC Berkeley](https://www.berkeley.edu/) as a visiting scholar, where I am collaborating with [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/), [Dr. Mingyu Ding](https://dingmyu.github.io/), and [Dr. Zhan Wei](https://zhanwei.site/).
+I am a Master's student from [Tongji University](https://en.tongji.edu.cn/).  I am working in the [TOPS Lab](https://tops.tongji.edu.cn/), and supervised by Professor [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Peng Hang](https://tops.tongji.edu.cn/info/1031/1383.htm). I interned at [UC Berkeley](https://www.berkeley.edu/) as a visiting student researcher, where I collaborated with [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/), [Prof. Mingyu Ding](https://dingmyu.github.io/),  and [Dr. Wei Zhan](https://zhanwei.site/).
 
-My research interests include autonomous vehicles, decision-making, social interaction, reinforcement learning , game theory, and foundation models. And my research vision is to build a safer, more generalized, and socially compatible autonomous system.
+My research interests include embodied AI, robot learning, autonomous vehicles, reinforcement learning , and foundation models. And my research goal is to develop intelligent robotic systems and general-purpose robotic foundation models, advancing embodied agents capable of sophisticated reasoning, adaptive decision-making, and effective interaction within dynamic, real-world environments.
 
-I am currently seeking a Ph.D. position in a relevant field and anticipate starting my studies in the fall of 2025.
 
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 One paper (first author) is accepted by IEEE Transactions on Intelligent Vehicles(SCI, Q1).
+- *2025.03*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10933798) is accepted by IEEE Transactions on Vehicular Technology(SCI, Q1).
+- *2025.03*: &nbsp; One paper entitled [Interact, Instruct to Improve: A LLM-Driven Parallel Actor-Reasoner Framework for Enhancing Autonomous Vehicle Interactions](https://arxiv.org/abs/2503.00502) is pre-printed.
+- *2025.02*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10924758) (first author) is accepted by IEEE Robotics and Automation Letters (RA-L).
+- *2025.02*: &nbsp; One paper entitled [TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning](https://arxiv.org/abs/2502.01387) is pre-printed.
+- *2024.11*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10774177) (first author) is accepted by IEEE Transactions on Intelligent Transportation Systems (SCI, Q1).
+- *2024.11*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10752915) (first author) is accepted by IEEE Transactions on Artificial Intelligence.
+- *2024.11*: &nbsp; One paper entitled [Language-Driven Policy Distillation for Cooperative Driving in Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2410.24152) is pre-printed on Arxiv.
+- *2024.10*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10737434) (first author) is accepted by IEEE Transactions on Intelligent Vehicles(SCI, Q1).
 - *2024.09*: &nbsp; One paper entitled [Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-making Framework](https://arxiv.org/abs/2409.12812) is pre-printed.
 - *2024.08*: &nbsp;🎉🎉 [One paper](https://arxiv.org/abs/2408.06656) (Co-first author) is accepted by [ECCV 2024 MAAS Workshop](https://coop-intelligence.github.io/)(Oral)
-- *2024.08*: &nbsp; Two papers are preprinted on Arxiv: (1) [MAPPO-PIS: A Multi-Agent Proximal Policy Optimization Method with Prior Intent Sharing for CAVs' Cooperative Decision-Making](https://arxiv.org/abs/2408.06656), (2) [Towards Safe and Robust Autonomous Vehicle Platooning: A Self-Organizing Cooperative Control Framework](https://arxiv.org/abs/2408.09468)
 - *2024.08*: &nbsp;🎉🎉 I won the IEEE ITSC 2024 Travel Award.
-- *2024.07*: &nbsp;🎉🎉 [One paper](https://arxiv.org/abs/2404.15696) (first author) is accepted by [ITSC 2024](https://ieee-itsc.org/2024/).
+- *2024.07*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10919632) (first author) is accepted by [ITSC 2024](https://ieee-itsc.org/2024/).
 - *2024.06*: &nbsp;🎉🎉 [One paper](http://dx.doi.org/10.1080/21680566.2024.2380913) (first author) is accepted by Transportmetrica B: Transport Dynamics.
-- *2024.06*: &nbsp; One paper entitled A Decision-Making GPT Model Augmented with Entropy Regularization for
-  Autonomous Vehicles is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2406.13908) here.
-- *2024.04*: &nbsp; One paper entitled Delay-Aware Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control with Model-based Stability Enhancement is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2404.15696) here.
-- *2024.04*: &nbsp;🎉🎉 One paper (first author) is accepted by IEEE Transactions on Vehicular Technology(SCI, Q1).
-- *2024.01*: &nbsp; One paper entitled DDM-Lag : A Diffusion-based Decision-making Model for Autonomous Vehicles with Lagrangian Safety Enhancement is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2401.03629) here.
-- *2023.12*: &nbsp; One paper entitled Enhancing Social Decision-Making of Autonomous Vehicles: A Mixed-Strategy Game Approach With Interaction Orientation Identification is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2312.11843) here.
-- *2023.11*: &nbsp;🎉🎉 One paper (first author) is accepted by IEEE Transactions on Intelligent Vehicles(SCI, Q1).
+- *2024.04*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10494558) (first author) is accepted by IEEE Transactions on Vehicular Technology(SCI, Q1).
+- *2023.11*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10315232) (first author) is accepted by IEEE Transactions on Intelligent Vehicles(SCI, Q1).
 - *2023.10*: &nbsp;🎉 One paper (first author) is accepted by Transportation Research Board 103th Annual MeetingTransportation Research Board.
-- *2023.09*: &nbsp; One paper entitled Towards Socially Responsive Autonomous Vehicles: A Reinforcement Learning Framework with Driving Priors and Coordination Awareness is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2309.09726) here.
-- *2023.08*: &nbsp; One paper entitled Teaching Autonomous Vehicles to Express Interaction Intent during Unprotected Left Turns: A Human-Driving-Prior-Based Trajectory Planning Approach is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2307.15950) here.
 - *2023.07*: &nbsp;🎉🎉 As the first author or the corresponding author, I got **three** papers accepted by [the 26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)](https://2023.ieee-itsc.org/)!
-- *2023.05*: &nbsp; One paper entitled Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors is pre-printed on techrxiv. Find [paper](https://www.techrxiv.org/articles/preprint/Cooperative_Decision-Making_for_CAVs_at_Unsignalized_Intersections_A_MARL_Approach_with_Attention_and_Hierarchical_Game_Priors/22817417) here.
 - *2022.09*: &nbsp;🎉🎉 I was bestowed with the Nominee Award for Shanghai University Student Annual Character, a recognition of paramount importance in evaluating the comprehensive aptitudes and societal influence of college students within the Shanghai municipality. Only 20 people in Shanghai receive the award each year (including nominees)!
 - *2022.06*: &nbsp;🎉🎉 I received my Bachelor degree from Tongji University with the first overall ranking in my major (1/163), and I got the honor of Shanghai Outstanding Graduate(Top 1%)!
 - *2021.05*: &nbsp;🎉🎉 I received the Tongji University Pursuit of Excellence Award, the highest honor for undergraduates at Tongji University! Only three undergraduates are able to receive this honor each year!
@@ -60,9 +57,30 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DDM_lag_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DDM-Lag : A Diffusion-based Decision-making Model for Autonomous Vehicles with Lagrangian Safety Enhancement](https://arxiv.org/abs/2401.03629)
+[DDM-Lag : A Diffusion-based Decision-making Model for Autonomous Vehicles with Lagrangian Safety Enhancement](https://ieeexplore.ieee.org/document/10752915)
 
-**Jiaqi Liu**, Peng Hang, Xiaocong Zhao, Jianqiang Wang, Jian Sun, preprint.
+**Jiaqi Liu**, Peng Hang, Xiaocong Zhao, Jianqiang Wang, Jian Sun, IEEE Transactions on Artificial Intelligence(TAI), DOI: 10.1109/TAI.2024.3497918.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/LDPD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Language-Driven Policy Distillation for Cooperative Driving in Multi-Agent Reinforcement Learning](https://ieeexplore.ieee.org/document/10924758)
+
+**Jiaqi Liu**, Chengkai Xu, Peng Hang, Jian Sun, Mingyu Ding, Wei Zhan, Masayoshi Tomizuka, IEEE Robotics and Automation Letters (RA-L), DOI: 10.1109/LRA.2025.3551098.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/MAGADDPG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors](https://ieeexplore.ieee.org/document/10774177)
+
+**Jiaqi Liu**, Peng Hang, Xiaoxiang Na, Chao Huang, Jian Sun, IEEE Transactions on Intelligent Transportation Systems (TITS), DOI: 10.1109/TITS.2024.3503092, 2024.
 
 </div>
 </div>
@@ -72,7 +90,27 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 [Towards Socially Responsive Autonomous Vehicles: A Reinforcement Learning Framework with Driving Priors and Coordination Awareness](https://ieeexplore.ieee.org/document/10315232)
 
-**Jiaqi Liu**, Donghao Zhou, Peng Hang, Ying Ni, Jian Sun, IEEE Transactions on Intelligent Vehicles(TIV), DOI: 10.1109/TIV.2023.3332080, 2023.
+**Jiaqi Liu**, Donghao Zhou, Peng Hang, Ying Ni, Jian Sun, IEEE Transactions on Intelligent Vehicles (TIV), DOI: 10.1109/TIV.2023.3332080, 2023.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/IRL_Planning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Human-Like Implicit Intention Expression for Autonomous Driving Motion Planning: A Method Based on Learning Human Intention Priors](https://ieeexplore.ieee.org/document/10737434)
+
+**Jiaqi Liu**, Xiao Qi, Ying Ni, Jian Sun, Peng Hang, IEEE Transactions on Intelligent Vehicles (TIV), DOI: 10.1109/TIV.2024.3487527, 2024.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Social_Game_Decision.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Enhancing Social Decision-Making of Autonomous Vehicles: A Mixed-Strategy Game Approach With Interaction Orientation Identification](https://ieeexplore.ieee.org/document/10494558)
+
+**Jiaqi Liu**, Xiao Qi, Peng Hang, Jian Sun, IEEE Transactions on Vehicular Technology (TVT), DOI:10.1109/TVT.2024.3385750.
 
 </div>
 </div>
@@ -97,20 +135,12 @@ Yicheng Guo$^\star$, **Jiaqi Liu**$^\star$, Rongjie Yu, Peng Hang, Jian Sun, acc
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Social_Game_Decision.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Enhancing Social Decision-Making of Autonomous Vehicles: A Mixed-Strategy Game Approach With Interaction Orientation Identification](https://ieeexplore.ieee.org/document/10494558)
-
-**Jiaqi Liu**, Xiao Qi, Peng Hang, Jian Sun, IEEE Transactions on Vehicular Technology(TVT), DOI:10.1109/TVT.2024.3385750.
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DAMARL_for_CACC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Delay-Aware Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control with Model-based Stability Enhancement](https://arxiv.org/abs/2404.15696)
+[Delay-Aware Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control with Model-based Stability Enhancement](https://ieeexplore.ieee.org/document/10919632)
 
 **Jiaqi Liu**, Ziran Wang, Peng Hang, and Jian Sun, accepted by [ITSC 2024](https://ieee-itsc.org/2024/).
 
@@ -120,45 +150,56 @@ Yicheng Guo$^\star$, **Jiaqi Liu**$^\star$, Rongjie Yu, Peng Hang, Jian Sun, acc
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/SafeGPT_Entropy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Decision-Making GPT Model Augmented with Entropy Regularization for Autonomous Vehicles](https://arxiv.org/abs/2406.13908)
+[A Decision-Making GPT Model Augmented with Entropy Regularization for Autonomous Vehicles](https://ieeexplore.ieee.org/document/10830105)
 
-**Jiaqi Liu**, Shiyu Fang, Xuekai Liu, Lulu Guo, Peng Hang, Jian Sun, accepted by [8th CAA International Conference on Vehicular Control and Intelligence (CVCI 2024)](http://www.ascl.jlu.edu.cn/vci/cvci2024/Home.htm)
+**Jiaqi Liu**, Shiyu Fang, Xuekai Liu, Lulu Guo, Peng Hang, Jian Sun, [8th CAA International Conference on Vehicular Control and Intelligence (CVCI 2024)](http://www.ascl.jlu.edu.cn/vci/cvci2024/Home.htm)
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/IRL_Planning.png' alt="sym" width="100%"></div></div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/CoDrivingLLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Human-Like Implicit Intention Expression for Autonomous Driving Motion Planning: A Method Based on Learning Human Intention Priors](https://arxiv.org/abs/2307.15950)
+[Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-making Framework](https://ieeexplore.ieee.org/document/10933798)
 
-**Jiaqi Liu**, Xiao Qi, Ying Ni, Jian Sun, Peng Hang, accepted by IEEE Transactions on Intelligent Vehicles (TIV).
+Shiyu Fang, **Jiaqi Liu**, Mingyu Ding, Chen Lv, Peng Hang, Jian Sun, IEEE Transactions on Vehicular Technology, DOI: 10.1109/TVT.2025.3552922.
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/MAGADDPG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Evaluation_interaction.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors](https://www.researchgate.net/publication/370850830_Cooperative_Decision-Making_for_CAVs_at_Unsignalized_Intersections_A_MARL_Approach_with_Attention_and_Hierarchical_Game_Priors)
+[Evaluation of Drivers’ Interaction Ability at Social Scenarios: A Process-Based Framework](http://dx.doi.org/10.1080/21680566.2024.2380913)
 
-**Jiaqi Liu**, Peng Hang, Xiaoxiang Na, Chao Huang, Jian Sun, preprint.
+**Jiaqi Liu**, Peng Hang, Xiangwang Hu, Jian Sun, Transportmetrica B: Transport Dynamics, DOI: 10.1080/21680566.2024.2380913.
 
 </div>
 </div>
 
-- [Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-making Framework](https://arxiv.org/abs/2409.12812), Shiyu Fang, **Jiaqi Liu**, Mingyu Ding, Chen Lv, Peng Hang, Jian Sun, preprint.
 
-- [Evaluation of Drivers’ Interaction Ability at Social Scenarios: A Process-Based Framework](http://dx.doi.org/10.1080/21680566.2024.2380913), **Jiaqi Liu**, Peng Hang, Xiangwang Hu, Jian Sun, Transportmetrica B: Transport Dynamics, DOI: 10.1080/21680566.2024.2380913.
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Tell_drive.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning](https://arxiv.org/abs/2502.01387)
+
+Chengkai Xu, **Jiaqi Liu**, Peng Hang, Jian Sun,  preprint.
+
+</div>
+</div>
+
+- [Interact, Instruct to Improve: A LLM-Driven Parallel Actor-Reasoner Framework for Enhancing Autonomous Vehicle Interactions](https://arxiv.org/abs/2503.00502), Shiyu Fang, **Jiaqi Liu**, Chengkai Xu, Chen Lv, Peng Hang, Jian Sun, preprint.
 
 - [Towards Safe and Robust Autonomous Vehicle Platooning: A Self-Organizing Cooperative Control Framework](https://arxiv.org/abs/2408.09468), Chengkai Xu, Zihao Deng, **Jiaqi Liu**$^\star$, Chao Huang, Peng Hang$^\star$, preprint.
+
+- [Optimal Placement of Charging Stations in Road Networks: A Reinforcement Learning Approach with Attention Mechanism](https://www.mdpi.com/2076-3417/13/14/8473), **Jiaqi Liu**, Jian Sun, and Xiao Qi, Applied Sciences 13.14 (2023): 8473.
 
 - [Design of the Reverse Logistics System for Medical Waste Recycling Part I: System Architecture, Classification & Monitoring Scheme, and Site Selection Algorithm](https://ieeexplore.ieee.org/document/10422624), Chaozhong Xue, Yongqi Dong, **Jiaqi Liu**$^\star$, Yijun Liao, Lingbo, IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023.
 
 - [Design of the Reverse Logistics System for Medical Waste Recycling Part II: Route Optimization with Case Study under COVID-19 Pandemic](https://ieeexplore.ieee.org/document/10422236), Chaozhong Xue, Yongqi Dong, **Jiaqi Liu**$^\star$, Yijun Liao, Lingbo, IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023.
-  
-- [Optimal Placement of Charging Stations in Road Networks: A Reinforcement Learning Approach with Attention Mechanism](https://www.mdpi.com/2076-3417/13/14/8473), **Jiaqi Liu**, Jian Sun, and Xiao Qi, Applied Sciences 13.14 (2023): 8473.
 
 - [Surrogate Evaluation Model for Assessing Lane Detection Reliability of Automated Vehicles in Complex Road Environments](https://www.researchgate.net/publication/368402742_Surrogate_Evaluation_Model_for_Assessing_Lane_Detection_Reliability_of_Automated_Vehicles_in_Complex_Road_Environments), Chen Chai, Tao Liu, **Jiaqi Liu**, Xu Cao, Yuchen Hu, Qingtao Li, Transportation Research Record.
 
@@ -189,7 +230,7 @@ Yicheng Guo$^\star$, **Jiaqi Liu**$^\star$, Rongjie Yu, Peng Hang, Jian Sun, acc
 
 # 📚 Academic Services
 ## Reviews
-- Journal Reviewer: IEEE Transactions on Intelligent Vehicles (TIV), IEEE Transactions on Intelligent Transportation Systems (TITS), Journal of Field Robotics, IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Vehicular Technology (TVT), IEEE Transactions on Automation Science and Engineering (TASE), Journal of Advanced Transportation
+- Journal Reviewer: IEEE Transactions on Intelligent Vehicles (TIV), IEEE Transactions on Intelligent Transportation Systems (TITS), IEEE Robotics and Automation Letters (RA-L), Journal of Field Robotics, IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Vehicular Technology (TVT), IEEE Transactions on Automation Science and Engineering (TASE), IEEE Internet of Things Journal, Nonlinear Dynamics, Journal of Advanced Transportation
 - Conference Reviewer: ICRA, ITSC, CVCI, TRB
 
 ##  Mentoring
@@ -198,6 +239,7 @@ Yicheng Guo$^\star$, **Jiaqi Liu**$^\star$, Rongjie Yu, Peng Hang, Jian Sun, acc
 - Yicheng Guo: Tongji University, 2023-present.
 
 ### Undergraduate students
-- Chengkai Xu: Tongji University, 2023-present.
+- [Chengkai Xu](https://scholar.google.com.sg/citations?user=qv36apkAAAAJ&hl=en&oi=ao): Tongji University, 2023-present.
 - Zihao Deng: Tongji University, 2023-2024.
 - Yuhang Zhang: Tongji University, 2024-present.
+
