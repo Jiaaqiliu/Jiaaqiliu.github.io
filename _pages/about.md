@@ -24,6 +24,7 @@ My research interests include embodied AI, robot learning, autonomous vehicles, 
 
 
 # 🔥 News
+- *2025.06*: &nbsp; We release [PhysUniBench](https://arxiv.org/abs/2506.17667), a large-scale multimodal benchmark for evaluating undergraduate-level physics reasoning in AI models. [Paper](https://arxiv.org/abs/2506.17667), [Project](https://prismax-team.github.io/PhysUniBenchmark/).
 - *2025.05*: &nbsp; One paper entitled [Towards Human-Centric Autonomous Driving: A Fast-Slow Architecture Integrating Large Language Model Guidance with Reinforcement Learning](https://arxiv.org/abs/2505.06875) is pre-printed.
 - *2025.03*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10933798) is accepted by IEEE Transactions on Vehicular Technology(SCI, Q1).
 - *2025.03*: &nbsp; One paper entitled [Interact, Instruct to Improve: A LLM-Driven Parallel Actor-Reasoner Framework for Enhancing Autonomous Vehicle Interactions](https://arxiv.org/abs/2503.00502) is pre-printed.
