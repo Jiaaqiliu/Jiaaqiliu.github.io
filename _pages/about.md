@@ -233,7 +233,7 @@ Chengkai Xu, **Jiaqi Liu**, Peng Hang, Jian Sun,  preprint.
 # 📚 Academic Services
 ## Reviews
 - Journal Reviewer: IEEE Transactions on Intelligent Vehicles (TIV), IEEE Transactions on Intelligent Transportation Systems (TITS), IEEE Transactions on Neural Networks and Learning(TNNLS),IEEE Robotics and Automation Letters (RA-L), Journal of Field Robotics, IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Vehicular Technology (TVT), IEEE Transactions on Automation Science and Engineering (TASE), IEEE Internet of Things Journal, Nonlinear Dynamics, Journal of Advanced Transportation
-- Conference Reviewer: ICRA, ITSC, CVCI, TRB
+- Conference Reviewer: ICML, ICRA, ITSC, CVCI, TRB
 
 ##  Mentoring
 
