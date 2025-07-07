@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master's student from [Tongji University](https://en.tongji.edu.cn/).  I am working in the [TOPS Lab](https://tops.tongji.edu.cn/), and supervised by Professor [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Peng Hang](https://tops.tongji.edu.cn/info/1031/1383.htm). I interned at [UC Berkeley](https://www.berkeley.edu/) as a visiting student researcher, where I collaborated with [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/), [Prof. Mingyu Ding](https://dingmyu.github.io/),  and [Dr. Wei Zhan](https://zhanwei.site/).
+
+I am an incoming Ph.D. student in Computer Science at the University of North Carolina at Chapel Hill (UNC), supervised by [Prof. Mingyu Ding](https://dingmyu.github.io/) and [Prof. Huaxiu Yao](https://www.huaxiuyao.io/). I received both my Bachelor's and Master's degrees from Tongji University. I interned at [UC Berkeley](https://www.berkeley.edu/) as a visiting student researcher, where I collaborated with [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/), [Prof. Mingyu Ding](https://dingmyu.github.io/),  and [Dr. Wei Zhan](https://zhanwei.site/).
 
 My research interests include embodied AI, robot learning, autonomous vehicles, reinforcement learning , and foundation models. And my research goal is to develop intelligent robotic systems and general-purpose robotic foundation models, advancing embodied agents capable of sophisticated reasoning, adaptive decision-making, and effective interaction within dynamic, real-world environments.
 
@@ -25,6 +26,7 @@ My research interests include embodied AI, robot learning, autonomous vehicles, 
 
 # 🔥 News
 - *2025.06*: &nbsp; We release [PhysUniBench](https://arxiv.org/abs/2506.17667), a large-scale multimodal benchmark for evaluating undergraduate-level physics reasoning in AI models. [Paper](https://arxiv.org/abs/2506.17667), [Project](https://prismax-team.github.io/PhysUniBenchmark/).
+- *2022.06*: &nbsp;🎉🎉 I received my Master degree from Tongji University, and got the honor of Shanghai Outstanding Graduate(Top 1%)!
 - *2025.05*: &nbsp; One paper entitled [Towards Human-Centric Autonomous Driving: A Fast-Slow Architecture Integrating Large Language Model Guidance with Reinforcement Learning](https://arxiv.org/abs/2505.06875) is pre-printed.
 - *2025.03*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10933798) is accepted by IEEE Transactions on Vehicular Technology(SCI, Q1).
 - *2025.03*: &nbsp; One paper entitled [Interact, Instruct to Improve: A LLM-Driven Parallel Actor-Reasoner Framework for Enhancing Autonomous Vehicle Interactions](https://arxiv.org/abs/2503.00502) is pre-printed.
@@ -206,6 +208,7 @@ Chengkai Xu, **Jiaqi Liu**, Peng Hang, Jian Sun,  preprint.
 - [Surrogate Evaluation Model for Assessing Lane Detection Reliability of Automated Vehicles in Complex Road Environments](https://www.researchgate.net/publication/368402742_Surrogate_Evaluation_Model_for_Assessing_Lane_Detection_Reliability_of_Automated_Vehicles_in_Complex_Road_Environments), Chen Chai, Tao Liu, **Jiaqi Liu**, Xu Cao, Yuchen Hu, Qingtao Li, Transportation Research Record.
 
 # 🎖 Honors and Awards
+- *2025.06* Outstanding Graduates from Shanghai(Top 1%).
 - *2024.10* National Scholarship, Ministry of Education of China
 - *2024.08* IEEE ITSC 2024 Travel Award
 - *2023.12* Jingchuan Scholarship
