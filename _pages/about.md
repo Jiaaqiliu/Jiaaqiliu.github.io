@@ -230,8 +230,9 @@ Chengkai Xu, **Jiaqi Liu**, Peng Hang, Jian Sun,  preprint.
 
 
 # 📖 Educations
-- *2022.09 - now*, Master of Traffic Engineering, Tongji University, Shanghai, China
-- *2018.09 - 2022.06*, Bachelor of Traffic Engineering, Tongji University, Shanghai, China (GPA: 4.89/5, rank: 1/163)
+- *2025.08 - *, PhD, UNC, US
+- *2022.09 - 2025.06*, Master, Tongji University, Shanghai, China
+- *2018.09 - 2022.06*, Bachelor, Tongji University, Shanghai, China (GPA: 4.89/5, rank: 1/163)
 
 # 📚 Academic Services
 ## Reviews
