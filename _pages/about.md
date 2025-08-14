@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am an incoming Ph.D. student in Computer Science at the University of North Carolina at Chapel Hill (UNC), supervised by [Prof. Mingyu Ding](https://dingmyu.github.io/) and [Prof. Huaxiu Yao](https://www.huaxiuyao.io/). I received both my Bachelor's and Master's degrees from Tongji University. I interned at [UC Berkeley](https://www.berkeley.edu/) as a visiting student researcher, where I collaborated with [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/), [Prof. Mingyu Ding](https://dingmyu.github.io/),  and [Dr. Wei Zhan](https://zhanwei.site/).
+I am a CS Ph.D. student at UNC Chapel Hill, supervised by [Prof. Mingyu Ding](https://dingmyu.github.io/) and [Prof. Huaxiu Yao](https://www.huaxiuyao.io/). I received both my Bachelor's and Master's degrees from Tongji University. I interned at [UC Berkeley](https://www.berkeley.edu/) as a visiting student researcher, where I collaborated with [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/), [Prof. Mingyu Ding](https://dingmyu.github.io/),  and [Dr. Wei Zhan](https://zhanwei.site/).
 
-My research interests include embodied AI, robot learning, vision-language model,  reinforcement learning , autonomous vehicles, and foundation models. And my research goal is to develop intelligent robotic systems and general-purpose robotic foundation models, advancing embodied agents capable of sophisticated reasoning, adaptive decision-making, and effective interaction within dynamic, real-world environments.
+My research interests include embodied AI, vision-language model, agent, robot learning, reinforcement learning , autonomous vehicles, and foundation models. And my research goal is to develop intelligent robotic systems and general-purpose robotic foundation models, advancing embodied agents capable of sophisticated reasoning, adaptive decision-making, and effective interaction within dynamic, real-world environments.
 
 
 
