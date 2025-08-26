@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiaqi Liu"
-description              : "Focusing on embodied AI, robot learning, autonomous vehicles, reinforcement learning , and foundation models."
+description              : "Focusing on embodied AI, robot learning, VLM, reinforcement learning , and foundation models."
 repository               : "Thirteentj/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiaqi Liu"
   avatar           : "images/Photo_jiaqi_2024.jpg"
-  bio              : "Tongji University"
+  bio              : "UNC-Chapel Hill"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
