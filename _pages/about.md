@@ -25,18 +25,14 @@ My research interests include embodied AI, vision-language model, agent, robot l
 
 
 # 🔥 News
+- *2025.08*: &nbsp; We release [VIPER-R1](https://arxiv.org/abs/2508.17380), a multimodal model for Visual Induction for Physics-based Equation Reasoning to discover fundamental symbolic formulas. [Paper](https://arxiv.org/pdf/2508.17380), [Project](https://jiaaqiliu.github.io/VIPER-R1/).
 - *2025.06*: &nbsp; We release [PhysUniBench](https://arxiv.org/abs/2506.17667), a large-scale multimodal benchmark for evaluating undergraduate-level physics reasoning in AI models. [Paper](https://arxiv.org/abs/2506.17667), [Project](https://prismax-team.github.io/PhysUniBenchmark/).
 - *2022.06*: &nbsp;🎉🎉 I received my Master degree from Tongji University, and got the honor of Shanghai Outstanding Graduate(Top 1%)!
-- *2025.05*: &nbsp; One paper entitled [Towards Human-Centric Autonomous Driving: A Fast-Slow Architecture Integrating Large Language Model Guidance with Reinforcement Learning](https://arxiv.org/abs/2505.06875) is pre-printed.
 - *2025.03*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10933798) is accepted by IEEE Transactions on Vehicular Technology(SCI, Q1).
-- *2025.03*: &nbsp; One paper entitled [Interact, Instruct to Improve: A LLM-Driven Parallel Actor-Reasoner Framework for Enhancing Autonomous Vehicle Interactions](https://arxiv.org/abs/2503.00502) is pre-printed.
 - *2025.02*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10924758) (first author) is accepted by IEEE Robotics and Automation Letters (RA-L).
-- *2025.02*: &nbsp; One paper entitled [TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning](https://arxiv.org/abs/2502.01387) is pre-printed.
 - *2024.11*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10774177) (first author) is accepted by IEEE Transactions on Intelligent Transportation Systems (SCI, Q1).
 - *2024.11*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10752915) (first author) is accepted by IEEE Transactions on Artificial Intelligence.
-- *2024.11*: &nbsp; One paper entitled [Language-Driven Policy Distillation for Cooperative Driving in Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2410.24152) is pre-printed on Arxiv.
 - *2024.10*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10737434) (first author) is accepted by IEEE Transactions on Intelligent Vehicles(SCI, Q1).
-- *2024.09*: &nbsp; One paper entitled [Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-making Framework](https://arxiv.org/abs/2409.12812) is pre-printed.
 - *2024.08*: &nbsp;🎉🎉 [One paper](https://arxiv.org/abs/2408.06656) (Co-first author) is accepted by [ECCV 2024 MAAS Workshop](https://coop-intelligence.github.io/)(Oral)
 - *2024.08*: &nbsp;🎉🎉 I won the IEEE ITSC 2024 Travel Award.
 - *2024.07*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10919632) (first author) is accepted by [ITSC 2024](https://ieee-itsc.org/2024/).
