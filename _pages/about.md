@@ -237,7 +237,7 @@ Chengkai Xu, **Jiaqi Liu**, Peng Hang, Jian Sun,  preprint.
 
 
 # 📖 Educations
-- *2025.08 - now*, PhD, UNC, US
+- *2025.08 - now*, PhD, UNC Chapel Hill, NC, US
 - *2022.09 - 2025.06*, Master, Tongji University, Shanghai, China
 - *2018.09 - 2022.06*, Bachelor, Tongji University, Shanghai, China (GPA: 4.89/5, rank: 1/163)
 
