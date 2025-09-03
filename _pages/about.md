@@ -25,7 +25,7 @@ My research interests include embodied AI, vision-language model, agent, robot l
 
 
 # 🔥 News
-- *2025.08*: &nbsp; We released [A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers](https://arxiv.org/abs/2508.21148), providing a comprehensive, data-centric roadmap of Sci-LLMs from foundational models to agentic frontiers.[paper](https://arxiv.org/abs/2508.21148)[github](https://github.com/open-sciencelab/Awesome-Scientific-Datasets-and-LLMs)
+- *2025.08*: &nbsp; We released [A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers](https://arxiv.org/abs/2508.21148), providing a comprehensive, data-centric roadmap of Sci-LLMs from foundational models to agentic frontiers.[paper](https://arxiv.org/abs/2508.21148), [github](https://github.com/open-sciencelab/Awesome-Scientific-Datasets-and-LLMs)
 - *2025.08*: &nbsp; We release [VIPER-R1](https://arxiv.org/abs/2508.17380), a multimodal model for Visual Induction for Physics-based Equation Reasoning to discover fundamental symbolic formulas. [Paper](https://arxiv.org/pdf/2508.17380), [Project](https://jiaaqiliu.github.io/VIPER-R1/).
 - *2025.06*: &nbsp; [PhysUniBench](https://arxiv.org/abs/2506.17667) is released, which is a large-scale multimodal benchmark for evaluating undergraduate-level physics reasoning in AI models. [Paper](https://arxiv.org/abs/2506.17667), [Project](https://prismax-team.github.io/PhysUniBenchmark/).
 - *2022.06*: &nbsp;🎉🎉 I received my Master degree from Tongji University, and got the honor of Shanghai Outstanding Graduate(Top 1%)!
