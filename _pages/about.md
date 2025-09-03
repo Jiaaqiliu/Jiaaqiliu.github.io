@@ -65,6 +65,16 @@ My research interests include embodied AI, vision-language model, agent, robot l
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/LLM_survey.png' alt="Sci-LLM Survey" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers](https://arxiv.org/abs/2508.21148)
+
+Ming Hu, Chenglong Ma, Wei Li, Wanghan Xu, Jiamin Wu, Jucheng Hu, Tianbin Li, Guohang Zhuang, **Jiaqi Liu**, Yingzhou Lu, ..., Wanli Ouyang, Yu Qiao, Zongyuan Ge, Shixiang Tang, Junjun He *et al.* . arxiv:2508.21148.
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DDM_lag_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
