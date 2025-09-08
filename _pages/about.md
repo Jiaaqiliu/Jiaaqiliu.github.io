@@ -262,8 +262,7 @@ Chengkai Xu, **Jiaqi Liu**, Peng Hang, Jian Sun,  preprint.
 ### Ph.D. students
 - Yicheng Guo: Tongji University, 2023-present.
 
-### Undergraduate students
-- [Chengkai Xu](https://scholar.google.com.sg/citations?user=qv36apkAAAAJ&hl=en&oi=ao): Tongji University, 2023-present.
-- Zihao Deng: Tongji University, 2023-2024.
+### Master students
+- [Chengkai Xu](https://perfectxu88.github.io/): Tongji University, 2023-present.
 - Yuhang Zhang: Tongji University, 2024-present.
 
