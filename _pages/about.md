@@ -26,7 +26,7 @@ I am actively seeking 2026 summer internships. Let's connect!
 
 
 # 🔥 News
-- *2025.09*: &nbsp; We released [SciReasoner](https://arxiv.org/abs/2509.21320), a scientific reasoning foundation model covering 103 tasks. It is pretrained on a 206B-token corpus and further enhanced through supervised fine-tuning and reinforcement learning to continually improve its reasoning ability. The model achieves state-of-the-art performance on more than 50 tasks.[Paper](https://arxiv.org/pdf/2509.21320), [Github](https://github.com/open-sciencelab/SciReason)
+- *2025.09*: &nbsp; We released [SciReasoner](https://arxiv.org/abs/2509.21320), a scientific reasoning foundation model covering 103 tasks. It is pretrained on a 206B-token corpus and further enhanced through supervised fine-tuning and reinforcement learning to continually improve its reasoning ability. The model achieves state-of-the-art performance on more than 50 tasks. [Paper](https://arxiv.org/pdf/2509.21320), [Github](https://github.com/open-sciencelab/SciReason)
 - *2025.08*: &nbsp; We released [A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers](https://arxiv.org/abs/2508.21148), providing a comprehensive, data-centric roadmap of Sci-LLMs from foundational models to agentic frontiers. [Paper](https://arxiv.org/abs/2508.21148), [Github](https://github.com/open-sciencelab/Awesome-Scientific-Datasets-and-LLMs)
 - *2025.08*: &nbsp; We released [VIPER-R1](https://arxiv.org/abs/2508.17380), a multimodal model for Visual Induction for Physics-based Equation Reasoning to discover fundamental symbolic formulas. [Paper](https://arxiv.org/pdf/2508.17380), [Project](https://jiaaqiliu.github.io/VIPER-R1/).
 - *2025.06*: &nbsp; [PhysUniBench](https://arxiv.org/abs/2506.17667) is released, which is a large-scale multimodal benchmark for evaluating undergraduate-level physics reasoning in AI models. [Paper](https://arxiv.org/abs/2506.17667), [Project](https://prismax-team.github.io/PhysUniBenchmark/).
@@ -63,6 +63,16 @@ I am actively seeking 2026 summer internships. Let's connect!
 [Mimicking the Physicist's Eye:A VLM-centric Approach for Physics Formula Discovery (VIPER-R1)](https://arxiv.org/abs/2508.17380)
 
 **Jiaqi Liu**,  Songning Lai, Pengze Li, Di Yu, Wenjie Zhou, Yiyang Zhou, Peng Xia, Zijun Wang, Xi Chen, Shixiang Tang, Lei Bai, Wanli Ouyang, Mingyu Ding, Huaxiu Yao, Aoran Wang, arxiv:2508.17380.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Sci_Reasoner.png' alt="Sci-LLM Survey" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SciReasoner: Laying the Scientific Reasoning Ground Across Disciplines](https://arxiv.org/abs/2509.21320)
+
+Yizhou Wang$^\star$, Chen Tang$^\star$, Han Deng$^\star$, Jiabei Xiao$^\star$, **Jiaqi Liu**$^\star$, Jianyu Wu$^\star$, ..., Philip Torr, Shixiang Tang, Xinzhu Ma, Wanli Ouyang, Lei Bai *et al.* . arXiv:2509.21320.
 
 </div>
 </div>
