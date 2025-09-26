@@ -20,8 +20,9 @@ redirect_from:
 
 I am a CS Ph.D. student at UNC Chapel Hill, supervised by [Prof. Mingyu Ding](https://dingmyu.github.io/) and [Prof. Huaxiu Yao](https://www.huaxiuyao.io/). I received both my Bachelor's and Master's degrees from Tongji University. I interned at [UC Berkeley](https://www.berkeley.edu/) as a visiting student researcher, where I collaborated with [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/), [Prof. Mingyu Ding](https://dingmyu.github.io/),  and [Dr. Wei Zhan](https://zhanwei.site/).
 
-My research interests include embodied AI, vision-language model, agent, robot learning, reinforcement learning , autonomous vehicles, and foundation models. And my research goal is to develop intelligent robotic systems and general-purpose robotic foundation models, advancing embodied agents capable of sophisticated reasoning, adaptive decision-making, and effective interaction within dynamic, real-world environments.
+My research interests include  vision-language model, embodied AI, agent, robot learning, reinforcement learning , autonomous vehicles, and foundation models. And my research goal is to improve the performance of LLMs and VLMs through reinforcement learning and other post-training techniques, and to leverage these models to build efficient and intelligent agents capable of interacting with the physical world (embodied intelligence) and driving scientific exploration (AI for Science).
 
+I am actively seeking 2026 summer internships. Let's connect!
 
 
 # 🔥 News
