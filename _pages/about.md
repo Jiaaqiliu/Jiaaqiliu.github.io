@@ -278,3 +278,5 @@ Chengkai Xu, **Jiaqi Liu**, Peng Hang, Jian Sun,  preprint.
 - [Chengkai Xu](https://perfectxu88.github.io/): Tongji University, 2023-present.
 - Yuhang Zhang: Tongji University, 2024-present.
 
+### Teaching Assistant
+- CS 790-183: Transfer Learning, UNC, Fall 2025
