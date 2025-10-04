@@ -271,12 +271,11 @@ Chengkai Xu, **Jiaqi Liu**, Peng Hang, Jian Sun,  preprint.
 
 ##  Mentoring
 
-### Ph.D. students
-- Yicheng Guo: Tongji University, 2023-present.
+- Yaofeng Su: Fudan University
+- Kaiwen Xiong: Shanghai Jiao Tong University
+- Yicheng Guo: Tongji University
+- [Chengkai Xu](https://perfectxu88.github.io/): Tongji University
+- Yuhang Zhang: Tongji University
 
-### Master students
-- [Chengkai Xu](https://perfectxu88.github.io/): Tongji University, 2023-present.
-- Yuhang Zhang: Tongji University, 2024-present.
-
-### Teaching Assistant
+## Teaching Assistant
 - CS 790-183: Transfer Learning, UNC, Fall 2025
