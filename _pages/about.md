@@ -181,17 +181,6 @@ Yicheng Guo$^\star$, **Jiaqi Liu**$^\star$, Rongjie Yu, Peng Hang, Jian Sun, acc
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/SafeGPT_Entropy.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Decision-Making GPT Model Augmented with Entropy Regularization for Autonomous Vehicles](https://ieeexplore.ieee.org/document/10830105)
-
-**Jiaqi Liu**, Shiyu Fang, Xuekai Liu, Lulu Guo, Peng Hang, Jian Sun, [8th CAA International Conference on Vehicular Control and Intelligence (CVCI 2024)](http://www.ascl.jlu.edu.cn/vci/cvci2024/Home.htm)
-
-</div>
-</div>
-
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/CoDrivingLLM.png' alt="sym" width="100%"></div></div>
@@ -204,38 +193,6 @@ Shiyu Fang, **Jiaqi Liu**, Mingyu Ding, Chen Lv, Peng Hang, Jian Sun, IEEE Trans
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Evaluation_interaction.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Evaluation of Drivers’ Interaction Ability at Social Scenarios: A Process-Based Framework](http://dx.doi.org/10.1080/21680566.2024.2380913)
-
-**Jiaqi Liu**, Peng Hang, Xiangwang Hu, Jian Sun, Transportmetrica B: Transport Dynamics, DOI: 10.1080/21680566.2024.2380913.
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Tell_drive.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning](https://arxiv.org/abs/2502.01387)
-
-Chengkai Xu, **Jiaqi Liu**, Peng Hang, Jian Sun,  preprint.
-
-</div>
-</div>
-
-- [Interact, Instruct to Improve: A LLM-Driven Parallel Actor-Reasoner Framework for Enhancing Autonomous Vehicle Interactions](https://arxiv.org/abs/2503.00502), Shiyu Fang, **Jiaqi Liu**, Chengkai Xu, Chen Lv, Peng Hang, Jian Sun, preprint.
-
-- [Towards Safe and Robust Autonomous Vehicle Platooning: A Self-Organizing Cooperative Control Framework](https://arxiv.org/abs/2408.09468), Chengkai Xu, Zihao Deng, **Jiaqi Liu**$^\star$, Chao Huang, Peng Hang$^\star$, preprint.
-
-- [Optimal Placement of Charging Stations in Road Networks: A Reinforcement Learning Approach with Attention Mechanism](https://www.mdpi.com/2076-3417/13/14/8473), **Jiaqi Liu**, Jian Sun, and Xiao Qi, Applied Sciences 13.14 (2023): 8473.
-
-- [Design of the Reverse Logistics System for Medical Waste Recycling Part I: System Architecture, Classification & Monitoring Scheme, and Site Selection Algorithm](https://ieeexplore.ieee.org/document/10422624), Chaozhong Xue, Yongqi Dong, **Jiaqi Liu**$^\star$, Yijun Liao, Lingbo, IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023.
-
-- [Design of the Reverse Logistics System for Medical Waste Recycling Part II: Route Optimization with Case Study under COVID-19 Pandemic](https://ieeexplore.ieee.org/document/10422236), Chaozhong Xue, Yongqi Dong, **Jiaqi Liu**$^\star$, Yijun Liao, Lingbo, IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023.
-
-- [Surrogate Evaluation Model for Assessing Lane Detection Reliability of Automated Vehicles in Complex Road Environments](https://www.researchgate.net/publication/368402742_Surrogate_Evaluation_Model_for_Assessing_Lane_Detection_Reliability_of_Automated_Vehicles_in_Complex_Road_Environments), Chen Chai, Tao Liu, **Jiaqi Liu**, Xu Cao, Yuchen Hu, Qingtao Li, Transportation Research Record.
 
 # 🎖 Honors and Awards
 - *2025.06* Outstanding Graduates from Shanghai(Top 1%).
@@ -266,8 +223,9 @@ Chengkai Xu, **Jiaqi Liu**, Peng Hang, Jian Sun,  preprint.
 
 # 📚 Academic Services
 ## Reviews
-- Journal Reviewer: IEEE Transactions on Intelligent Vehicles (TIV), IEEE Transactions on Intelligent Transportation Systems (TITS), IEEE Transactions on Neural Networks and Learning(TNNLS),IEEE Robotics and Automation Letters (RA-L), Journal of Field Robotics, IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Vehicular Technology (TVT), IEEE Transactions on Automation Science and Engineering (TASE), IEEE Internet of Things Journal, Nonlinear Dynamics, Journal of Advanced Transportation
+
 - Conference Reviewer: NeurIPS, ICML, ICCV, AAAI, ICRA, ITSC
+- Journal Reviewer: IEEE Transactions on Intelligent Vehicles (TIV), IEEE Transactions on Intelligent Transportation Systems (TITS), IEEE Transactions on Neural Networks and Learning(TNNLS),IEEE Robotics and Automation Letters (RA-L), Journal of Field Robotics, IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Vehicular Technology (TVT), IEEE Transactions on Automation Science and Engineering (TASE), IEEE Internet of Things Journal, Nonlinear Dynamics, Journal of Advanced Transportation
 
 ##  Mentoring
 
