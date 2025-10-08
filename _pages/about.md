@@ -68,12 +68,23 @@ I am actively seeking 2026 summer internships. Let's connect!
 </div>
 </div>
 
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Sci_Reasoner.png' alt="Sci-LLM Survey" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SciReasoner: Laying the Scientific Reasoning Ground Across Disciplines](https://arxiv.org/abs/2509.21320)
 
 Yizhou Wang$^\star$, Chen Tang$^\star$, Han Deng$^\star$, Jiabei Xiao$^\star$, **Jiaqi Liu**$^\star$, Jianyu Wu$^\star$, ..., Philip Torr, Shixiang Tang, Xinzhu Ma, Wanli Ouyang, Lei Bai *et al.* . arXiv:2509.21320.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/fig_atp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Alignment Tipping Process: How Self-Evolution Pushes LLM Agents Off the Rails](https://arxiv.org/abs/2510.04860)
+
+Siwei Han, **Jiaqi Liu**, Yaofeng Su, Wenbo Duan, Xinyuan Liu, Cihang Xie, Mohit Bansal, Mingyu Ding, Linjun Zhang, Huaxiu Yao, arxiv:2510.04860.
 
 </div>
 </div>
