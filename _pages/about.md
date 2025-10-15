@@ -237,7 +237,7 @@ Shiyu Fang, **Jiaqi Liu**, Mingyu Ding, Chen Lv, Peng Hang, Jian Sun, IEEE Trans
 ## Reviews
 
 - Conference Reviewer: NeurIPS, ICML, ICCV, AAAI, ICRA, ITSC
-- Journal Reviewer: IEEE Transactions on Intelligent Vehicles (TIV), IEEE Transactions on Intelligent Transportation Systems (TITS), IEEE Transactions on Neural Networks and Learning(TNNLS),IEEE Robotics and Automation Letters (RA-L), Journal of Field Robotics, IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Vehicular Technology (TVT), IEEE Transactions on Automation Science and Engineering (TASE), IEEE Internet of Things Journal, Nonlinear Dynamics, Journal of Advanced Transportation
+- Journal Reviewer: IEEE Transactions on Intelligent Vehicles (TIV), IEEE Transactions on Intelligent Transportation Systems (TITS), IEEE Transactions on Neural Networks and Learning(TNNLS),IEEE Robotics and Automation Letters (RA-L), Journal of Field Robotics, IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Vehicular Technology (TVT), IEEE Transactions on Automation Science and Engineering (TASE), IEEE Internet of Things Journal, Nonlinear Dynamics, Journal of Advanced Transportation, Scientific Reports
 
 ##  Mentoring
 
