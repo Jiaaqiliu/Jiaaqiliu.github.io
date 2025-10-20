@@ -63,7 +63,7 @@ I am actively seeking 2026 summer internships. Let's connect!
 
 [Mimicking the Physicist's Eye:A VLM-centric Approach for Physics Formula Discovery (VIPER-R1)](https://arxiv.org/abs/2508.17380)
 
-**Jiaqi Liu**,  Songning Lai, Pengze Li, Di Yu, Wenjie Zhou, Yiyang Zhou, Peng Xia, Zijun Wang, Xi Chen, Shixiang Tang, Lei Bai, Wanli Ouyang, Mingyu Ding, Huaxiu Yao, Aoran Wang, arxiv:2508.17380.
+**Jiaqi Liu**,  Songning Lai, Pengze Li, Di Yu, Wenjie Zhou, Yiyang Zhou, Peng Xia, Zijun Wang, Xi Chen, Shixiang Tang, Lei Bai, Wanli Ouyang, Mingyu Ding, Huaxiu Yao, Aoran Wang, accepted by NeurIPS 2025 Efficient Reasoning Workshop.
 
 </div>
 </div>
