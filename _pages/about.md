@@ -26,6 +26,7 @@ I am actively seeking 2026 summer internships. Let's connect!
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026.
 - *2025.10*: &nbsp; [Alignment Tipping Process: How Self-Evolution Pushes LLM Agents Off the Rails](https://arxiv.org/abs/2510.04860) is preprinted.
 - *2025.09*: &nbsp; We released [SciReasoner](https://arxiv.org/abs/2509.21320), a scientific reasoning foundation model covering 103 tasks. It is pretrained on a 206B-token corpus and further enhanced through supervised fine-tuning and reinforcement learning to continually improve its reasoning ability. The model achieves state-of-the-art performance on more than 50 tasks. [Paper](https://arxiv.org/pdf/2509.21320), [Github](https://github.com/open-sciencelab/SciReason), [Hugging Face](https://huggingface.co/SciReason)
 - *2025.08*: &nbsp; We released [A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers](https://arxiv.org/abs/2508.21148), providing a comprehensive, data-centric roadmap of Sci-LLMs from foundational models to agentic frontiers. [Paper](https://arxiv.org/abs/2508.21148), [Github](https://github.com/open-sciencelab/Awesome-Scientific-Datasets-and-LLMs)
