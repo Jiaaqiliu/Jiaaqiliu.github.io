@@ -132,23 +132,15 @@ Yicheng Guo$^\star$, **Jiaqi Liu**$^\star$, Rongjie Yu, Peng Hang, Jian Sun, acc
 # 🎖 Honors and Awards
 - *2025.06* Outstanding Graduates from Shanghai(Top 1%).
 - *2024.10* National Scholarship, Ministry of Education of China
-- *2024.08* IEEE ITSC 2024 Travel Award
-- *2023.12* Jingchuan Scholarship
-- *2023.01* Dean's Scholarship, College of Transportation Engineering, Tongji University (Only one)
 - *2022.10* [Shanghai University Student Annual Character (Nomination Award)](https://edu.sh.gov.cn/xxgk2_zdgz_pxbz_01/20221019/a513dbcaca5e4dddb0a36cf00a5ff5b1.html)!
 - *2022.06* Outstanding Graduates from Shanghai(Top 1%).
 - *2021.12* National Scholarship, Ministry of Education of China
 - *2021.05* [Tongji University Pursuit of Excellence Award](https://news.tongji.edu.cn/info/1008/77493.htm) (3/4450) !
-- *2020.11* The only Grand Prize in [China Reverse Logistics Design Competition](https://tjjt.tongji.edu.cn/info/1101/3204.htm) (1 / 329)
 - *2020.10* Best paper award of [Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)](http://www.mcm.edu.cn/html_cn/node/15767d638d52e1d38c64ea910de792d1.html) **(3/ 42000+)** !
-- *2020.10* First Prize in China Transportation Science and Technology Competition
 - *2020.10* First Prize in the Shanghai College Students Transportation Innovation Competition
-- *2020.6*  First Prize in the 19th Transportation Science and Technology Competition at Tongji University
 - *2020.5*  First Prize in Tongji University Mathematical Modeling Contest
 - *2019.12* National Scholarship, Ministry of Education of China
-- *2019-2022* Outstanding Student Award at Tongji University
-- *2019-2022* Tang Zhongying Moral Education Scholarship
-- *2019-2022* Undergraduate Social Activity Scholarship at Tongji University
+
 
 
 # 📖 Educations
