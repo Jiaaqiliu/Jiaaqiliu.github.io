@@ -33,26 +33,9 @@ I am actively seeking 2026 summer internships. Let's connect!
 - *2025.08*: &nbsp; We released [VIPER-R1](https://arxiv.org/abs/2508.17380), a multimodal model for Visual Induction for Physics-based Equation Reasoning to discover fundamental symbolic formulas. [Paper](https://arxiv.org/pdf/2508.17380), [Project](https://jiaaqiliu.github.io/VIPER-R1/).
 - *2025.06*: &nbsp; [PhysUniBench](https://arxiv.org/abs/2506.17667) is released, which is a large-scale multimodal benchmark for evaluating undergraduate-level physics reasoning in AI models. [Paper](https://arxiv.org/abs/2506.17667), [Project](https://prismax-team.github.io/PhysUniBenchmark/).
 - *2025.06*: &nbsp;🎉🎉 I received my Master degree from Tongji University, and got the honor of Shanghai Outstanding Graduate(Top 1%)!
-- *2025.03*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10933798) is accepted by IEEE Transactions on Vehicular Technology(SCI, Q1).
-- *2025.02*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10924758) (first author) is accepted by IEEE Robotics and Automation Letters (RA-L).
-- *2024.11*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10774177) (first author) is accepted by IEEE Transactions on Intelligent Transportation Systems (SCI, Q1).
-- *2024.11*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10752915) (first author) is accepted by IEEE Transactions on Artificial Intelligence.
-- *2024.10*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10737434) (first author) is accepted by IEEE Transactions on Intelligent Vehicles(SCI, Q1).
-- *2024.08*: &nbsp;🎉🎉 [One paper](https://arxiv.org/abs/2408.06656) (Co-first author) is accepted by [ECCV 2024 MAAS Workshop](https://coop-intelligence.github.io/)(Oral)
-- *2024.08*: &nbsp;🎉🎉 I won the IEEE ITSC 2024 Travel Award.
-- *2024.07*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10919632) (first author) is accepted by [ITSC 2024](https://ieee-itsc.org/2024/).
-- *2024.06*: &nbsp;🎉🎉 [One paper](http://dx.doi.org/10.1080/21680566.2024.2380913) (first author) is accepted by Transportmetrica B: Transport Dynamics.
-- *2024.04*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10494558) (first author) is accepted by IEEE Transactions on Vehicular Technology(SCI, Q1).
-- *2023.11*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10315232) (first author) is accepted by IEEE Transactions on Intelligent Vehicles(SCI, Q1).
-- *2023.10*: &nbsp;🎉 One paper (first author) is accepted by Transportation Research Board 103th Annual MeetingTransportation Research Board.
-- *2023.07*: &nbsp;🎉🎉 As the first author or the corresponding author, I got **three** papers accepted by [the 26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)](https://2023.ieee-itsc.org/)!
 - *2022.09*: &nbsp;🎉🎉 I was bestowed with the Nominee Award for Shanghai University Student Annual Character, a recognition of paramount importance in evaluating the comprehensive aptitudes and societal influence of college students within the Shanghai municipality. Only 20 people in Shanghai receive the award each year (including nominees)!
-- *2022.06*: &nbsp;🎉🎉 I received my Bachelor degree from Tongji University with the first overall ranking in my major (1/163), and I got the honor of Shanghai Outstanding Graduate(Top 1%)!
 - *2021.05*: &nbsp;🎉🎉 I received the Tongji University Pursuit of Excellence Award, the highest honor for undergraduates at Tongji University! Only three undergraduates are able to receive this honor each year!
-- *2020.11*: &nbsp;🎉🎉 I won the only Grand Prize in the China Reverse Logistics Design Competition
 - *2020.10*: &nbsp;🎉🎉 I won the Best Paper Award in CUMCM! CUMCM is the largest basic academic competition for undergraduate students in China, and 3 papers were awarded from 42,000+ candidates!
-- *2020.10*: &nbsp;🎉🎉 I won the first prize of China Transportation Science and Technology Competition, which is the most important undergraduate academic competition in China's transportation field!
-- 🎉🎉🎉: My story and work during my undergraduate studies were reported by several influential Chinese media outlets. You can find more content here: [1](https://mp.weixin.qq.com/s/NZdZ1VUiMM9sV1GEcLJY_w), [2](https://mp.weixin.qq.com/s/UXLehzFPHhR1yeVYfFhDOw), [3](https://mp.weixin.qq.com/s/JY2Jae3URVvWo_v3R7BvGA)
 
 
 
@@ -142,25 +125,7 @@ Ming Hu, Chenglong Ma, Wei Li, Wanghan Xu, Jiamin Wu, Jucheng Hu, Tianbin Li, Gu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/IRL_Planning.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Human-Like Implicit Intention Expression for Autonomous Driving Motion Planning: A Method Based on Learning Human Intention Priors](https://ieeexplore.ieee.org/document/10737434)
-
-**Jiaqi Liu**, Xiao Qi, Ying Ni, Jian Sun, Peng Hang, IEEE Transactions on Intelligent Vehicles (TIV), DOI: 10.1109/TIV.2024.3487527, 2024.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Social_Game_Decision.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Enhancing Social Decision-Making of Autonomous Vehicles: A Mixed-Strategy Game Approach With Interaction Orientation Identification](https://ieeexplore.ieee.org/document/10494558)
-
-**Jiaqi Liu**, Xiao Qi, Peng Hang, Jian Sun, IEEE Transactions on Vehicular Technology (TVT), DOI:10.1109/TVT.2024.3385750.
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/MAPPO_PIS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -171,29 +136,6 @@ Yicheng Guo$^\star$, **Jiaqi Liu**$^\star$, Rongjie Yu, Peng Hang, Jian Sun, acc
 
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/MTD_GPT_Framework.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[MTD-GPT: A Multi-Task Decision-Making GPT Model for Autonomous Driving at Unsignalized Intersections](https://ieeexplore.ieee.org/document/10421993)
-
-**Jiaqi Liu**, Peng Hang, Xiao Qi, Jianqiang Wang, Jian Sun, IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023.
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/DAMARL_for_CACC.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Delay-Aware Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control with Model-based Stability Enhancement](https://ieeexplore.ieee.org/document/10919632)
-
-**Jiaqi Liu**, Ziran Wang, Peng Hang, and Jian Sun, accepted by [ITSC 2024](https://ieee-itsc.org/2024/).
-
-</div>
-</div>
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/CoDrivingLLM.png' alt="sym" width="100%"></div></div>
