@@ -84,22 +84,22 @@ Ming Hu, Chenglong Ma, Wei Li, Wanghan Xu, Jiamin Wu, Jucheng Hu, Tianbin Li, Gu
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/DDM_lag_framework.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[DDM-Lag : A Diffusion-based Decision-making Model for Autonomous Vehicles with Lagrangian Safety Enhancement](https://ieeexplore.ieee.org/document/10752915)
-
-**Jiaqi Liu**, Peng Hang, Xiaocong Zhao, Jianqiang Wang, Jian Sun, IEEE Transactions on Artificial Intelligence(TAI), DOI: 10.1109/TAI.2024.3497918.
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/LDPD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Language-Driven Policy Distillation for Cooperative Driving in Multi-Agent Reinforcement Learning](https://ieeexplore.ieee.org/document/10924758)
 
 **Jiaqi Liu**, Chengkai Xu, Peng Hang, Jian Sun, Mingyu Ding, Wei Zhan, Masayoshi Tomizuka, IEEE Robotics and Automation Letters (RA-L), DOI: 10.1109/LRA.2025.3551098.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/DDM_lag_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DDM-Lag : A Diffusion-based Decision-making Model for Autonomous Vehicles with Lagrangian Safety Enhancement](https://ieeexplore.ieee.org/document/10752915)
+
+**Jiaqi Liu**, Peng Hang, Xiaocong Zhao, Jianqiang Wang, Jian Sun, IEEE Transactions on Artificial Intelligence(TAI), DOI: 10.1109/TAI.2024.3497918.
 
 </div>
 </div>
@@ -115,17 +115,6 @@ Ming Hu, Chenglong Ma, Wei Li, Wanghan Xu, Jiamin Wu, Jucheng Hu, Tianbin Li, Gu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Social_PPO.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Towards Socially Responsive Autonomous Vehicles: A Reinforcement Learning Framework with Driving Priors and Coordination Awareness](https://ieeexplore.ieee.org/document/10315232)
-
-**Jiaqi Liu**, Donghao Zhou, Peng Hang, Ying Ni, Jian Sun, IEEE Transactions on Intelligent Vehicles (TIV), DOI: 10.1109/TIV.2023.3332080, 2023.
-
-</div>
-</div>
-
-
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/MAPPO_PIS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -138,15 +127,6 @@ Yicheng Guo$^\star$, **Jiaqi Liu**$^\star$, Rongjie Yu, Peng Hang, Jian Sun, acc
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/CoDrivingLLM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-making Framework](https://ieeexplore.ieee.org/document/10933798)
-
-Shiyu Fang, **Jiaqi Liu**, Mingyu Ding, Chen Lv, Peng Hang, Jian Sun, IEEE Transactions on Vehicular Technology, DOI: 10.1109/TVT.2025.3552922.
-
-</div>
-</div>
 
 
 # 🎖 Honors and Awards
