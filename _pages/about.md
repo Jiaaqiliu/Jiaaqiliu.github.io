@@ -75,7 +75,7 @@ Peng Xia, Kaide Zeng, **Jiaqi Liu**, Can Qin, Fang Wu, Yiyang Zhou, Caiming Xion
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/MoA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ARCHE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Mixture of Horizons in Action Chunking
