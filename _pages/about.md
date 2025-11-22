@@ -58,7 +58,7 @@ I am actively seeking 2026 summer internships. Let's connect!
 
 Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning
 
-**Jiaqi Liu**, Kaiwen Xiong, Peng Xia, Yiyang Zhou, Haonian Ji, Lu Feng, Siwei Han, Mingyu Ding, Huaxiu Yao, submitted to CVPR 2026.
+**Jiaqi Liu**, Kaiwen Xiong, Peng Xia, Yiyang Zhou, Haonian Ji, Lu Feng, Siwei Han, Mingyu Ding, Huaxiu Yao, arxiv.
 
 </div>
 </div>
@@ -69,7 +69,7 @@ Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Rea
 
 [Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning](https://arxiv.org/abs/2511.16043)
 
-Peng Xia, Kaide Zeng, **Jiaqi Liu**, Can Qin, Fang Wu, Yiyang Zhou, Caiming Xiong, Huaxiu Yao, submitted to CVPR 2026.
+Peng Xia, Kaide Zeng, **Jiaqi Liu**, Can Qin, Fang Wu, Yiyang Zhou, Caiming Xiong, Huaxiu Yao, arxiv:2511.16043.
 
 </div>
 </div>
@@ -80,7 +80,7 @@ Peng Xia, Kaide Zeng, **Jiaqi Liu**, Can Qin, Fang Wu, Yiyang Zhou, Caiming Xion
 
 Mixture of Horizons in Action Chunking
 
-Dong Jing, Gang Wang, **Jiaqi Liu**, Weiliang Tang, Zelong Sun, Yunchao Yao, Zhenyu Wei, Yunhui Liu, Zhiwu Lu, Mingyu Ding, submitted to CVPR 2026.
+Dong Jing, Gang Wang, **Jiaqi Liu**, Weiliang Tang, Zelong Sun, Yunchao Yao, Zhenyu Wei, Yunhui Liu, Zhiwu Lu, Mingyu Ding, arxiv.
 
 </div>
 </div>
