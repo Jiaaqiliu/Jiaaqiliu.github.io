@@ -56,7 +56,7 @@ I am actively seeking 2026 summer internships. Let's connect!
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Agent0-vl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning]
+Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning
 
 **Jiaqi Liu**, Kaiwen Xiong, Peng Xia, Yiyang Zhou, Haonian Ji, Lu Feng, Siwei Han, Mingyu Ding, Huaxiu Yao, submitted to CVPR 2026.
 
@@ -67,7 +67,7 @@ I am actively seeking 2026 summer internships. Let's connect!
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Agent0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning]
+[Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning](https://arxiv.org/abs/2511.16043)
 
 Peng Xia, Kaide Zeng, **Jiaqi Liu**, Can Qin, Fang Wu, Yiyang Zhou, Caiming Xiong, Huaxiu Yao, submitted to CVPR 2026.
 
