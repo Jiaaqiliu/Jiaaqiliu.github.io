@@ -75,6 +75,29 @@ Peng Xia, Kaide Zeng, **Jiaqi Liu**, Can Qin, Fang Wu, Yiyang Zhou, Caiming Xion
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/MoA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Mixture of Horizons in Action Chunking
+
+Dong Jing, Gang Wang, **Jiaqi Liu**, Weiliang Tang, Zelong Sun, Yunchao Yao, Zhenyu Wei, Yunhui Liu, Zhiwu Lu, Mingyu Ding, submitted to CVPR 2026.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/MoA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ARCHE: A Novel Task to Evaluate LLMs on Latent Reasoning Chain Extraction](https://arxiv.org/abs/2511.12485)
+
+Pengze Li, **Jiaqi Liu**, Junchi Yu, Lihao Liu, Mingyu Ding, Wanli Ouyang, Shixiang Tang, Xi Chen, AAAI 2026.
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Sci_Reasoner.png' alt="Sci-LLM Survey" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
