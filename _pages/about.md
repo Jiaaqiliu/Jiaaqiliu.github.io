@@ -75,7 +75,7 @@ Peng Xia, Kaide Zeng, **Jiaqi Liu**, Can Qin, Fang Wu, Yiyang Zhou, Caiming Xion
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/ARCHE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/MoA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Mixture of Horizons in Action Chunking
@@ -86,7 +86,7 @@ Dong Jing, Gang Wang, **Jiaqi Liu**, Weiliang Tang, Zelong Sun, Yunchao Yao, Zhe
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/MoA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ARCHE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ARCHE: A Novel Task to Evaluate LLMs on Latent Reasoning Chain Extraction](https://arxiv.org/abs/2511.12485)
