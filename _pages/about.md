@@ -47,7 +47,29 @@ I am actively seeking 2026 summer internships. Let's connect!
 
 [Mimicking the Physicist's Eye:A VLM-centric Approach for Physics Formula Discovery (VIPER-R1)](https://arxiv.org/abs/2508.17380)
 
-**Jiaqi Liu**,  Songning Lai, Pengze Li, Di Yu, Wenjie Zhou, Yiyang Zhou, Peng Xia, Zijun Wang, Xi Chen, Shixiang Tang, Lei Bai, Wanli Ouyang, Mingyu Ding, Huaxiu Yao, Aoran Wang, accepted by NeurIPS 2025 Efficient Reasoning Workshop.
+**Jiaqi Liu**,  Songning Lai, Pengze Li, Di Yu, Wenjie Zhou, Yiyang Zhou, Peng Xia, Zijun Wang, Xi Chen, Shixiang Tang, Lei Bai, Wanli Ouyang, Mingyu Ding, Huaxiu Yao, Aoran Wang, accepted by NeurIPS 2025 Efficient Reasoning Workshop, submitted to ICLR 2026.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Agent0-vl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning]
+
+**Jiaqi Liu**, Kaiwen Xiong, Peng Xia, Yiyang Zhou, Haonian Ji, Lu Feng, Siwei Han, Mingyu Ding, Huaxiu Yao, submitted to CVPR 2026.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Agent0.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning]
+
+Peng Xia, Kaide Zeng, **Jiaqi Liu**, Can Qin, Fang Wu, Yiyang Zhou, Caiming Xiong, Huaxiu Yao, submitted to CVPR 2026.
 
 </div>
 </div>
