@@ -78,9 +78,9 @@ Peng Xia, Kaide Zeng, **Jiaqi Liu**, Can Qin, Fang Wu, Yiyang Zhou, Caiming Xion
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/MoA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Mixture of Horizons in Action Chunking
+[Mixture of Horizons in Action Chunking](https://arxiv.org/abs/2511.19433)
 
-Dong Jing, Gang Wang, **Jiaqi Liu**, Weiliang Tang, Zelong Sun, Yunchao Yao, Zhenyu Wei, Yunhui Liu, Zhiwu Lu, Mingyu Ding, arxiv.
+Dong Jing, Gang Wang, **Jiaqi Liu**, Weiliang Tang, Zelong Sun, Yunchao Yao, Zhenyu Wei, Yunhui Liu, Zhiwu Lu, Mingyu Ding, arxiv:2511.19433.
 
 </div>
 </div>
