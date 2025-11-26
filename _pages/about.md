@@ -56,9 +56,9 @@ I am actively seeking 2026 summer internships. Let's connect!
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Agent0-vl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning
+[Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning](https://arxiv.org/abs/2511.19900)
 
-**Jiaqi Liu**, Kaiwen Xiong, Peng Xia, Yiyang Zhou, Haonian Ji, Lu Feng, Siwei Han, Mingyu Ding, Huaxiu Yao, arxiv.
+**Jiaqi Liu**, Kaiwen Xiong, Peng Xia, Yiyang Zhou, Haonian Ji, Lu Feng, Siwei Han, Mingyu Ding, Huaxiu Yao, arxiv:2511.19900.
 
 </div>
 </div>
