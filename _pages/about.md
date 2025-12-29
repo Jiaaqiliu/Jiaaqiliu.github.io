@@ -35,7 +35,19 @@ I am actively seeking 2026 summer internships. Let's connect!
 - *2025.08*: &nbsp; We released [VIPER-R1](https://arxiv.org/abs/2508.17380), a multimodal model for Visual Induction for Physics-based Equation Reasoning to discover fundamental symbolic formulas. [Paper](https://arxiv.org/pdf/2508.17380), [Project](https://jiaaqiliu.github.io/VIPER-R1/).
 - *2025.06*: &nbsp; [PhysUniBench](https://arxiv.org/abs/2506.17667) is released, which is a large-scale multimodal benchmark for evaluating undergraduate-level physics reasoning in AI models. [Paper](https://arxiv.org/abs/2506.17667), [Project](https://prismax-team.github.io/PhysUniBenchmark/).
 - *2025.06*: &nbsp;🎉🎉 I received my Master degree from Tongji University, and got the honor of Shanghai Outstanding Graduate(Top 1%)!
+- *2025.03*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10933798) is accepted by IEEE Transactions on Vehicular Technology.
+- *2025.02*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10924758) (first author) is accepted by IEEE Robotics and Automation Letters (RA-L).
+- *2024.11*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10774177) (first author) is accepted by IEEE Transactions on Intelligent Transportation Systems.
+- *2024.11*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10752915) (first author) is accepted by IEEE Transactions on Artificial Intelligence.
+- *2024.10*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10737434) (first author) is accepted by IEEE Transactions on Intelligent Vehicles.
+- *2024.08*: &nbsp;🎉🎉 [One paper](https://arxiv.org/abs/2408.06656) (Co-first author) is accepted by ECCV 2024(Oral)
+- *2024.07*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10919632) (first author) is accepted by ITSC 2024.
+- *2024.06*: &nbsp;🎉🎉 [One paper](http://dx.doi.org/10.1080/21680566.2024.2380913) (first author) is accepted by Transportmetrica B: Transport Dynamics.
+- *2024.04*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10494558) (first author) is accepted by IEEE Transactions on Vehicular Technology.
+- *2023.11*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10315232) (first author) is accepted by IEEE Transactions on Intelligent Vehicles.
+- *2023.07*: &nbsp;🎉🎉 Three papers were accepted by ITSC 2023
 - *2022.09*: &nbsp;🎉🎉 I was bestowed with the Nominee Award for Shanghai University Student Annual Character, a recognition of paramount importance in evaluating the comprehensive aptitudes and societal influence of college students within the Shanghai municipality. Only 20 people in Shanghai receive the award each year (including nominees)!
+- *2022.06*: &nbsp;🎉🎉 I received my Bachelor degree from Tongji University with the first overall ranking in my major (1/163), and I got the honor of Shanghai Outstanding Graduate(Top 1%)!
 - *2021.05*: &nbsp;🎉🎉 I received the Tongji University Pursuit of Excellence Award, the highest honor for undergraduates at Tongji University! Only three undergraduates are able to receive this honor each year!
 - *2020.10*: &nbsp;🎉🎉 I won the Best Paper Award in CUMCM! CUMCM is the largest basic academic competition for undergraduate students in China, and 3 papers were awarded from 42,000+ candidates!
 </div>
