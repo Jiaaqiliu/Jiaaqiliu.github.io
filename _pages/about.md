@@ -26,6 +26,7 @@ I am actively seeking 2026 summer internships. Let's connect!
 
 
 # 🔥 News
+<div class="news-container" markdown="1">
 - *2025.11*: &nbsp; [Agent0](https://arxiv.org/abs/2511.16043), [Agent0-VL](https://arxiv.org/abs/2511.19900) are released.
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026.
 - *2025.10*: &nbsp; [Alignment Tipping Process: How Self-Evolution Pushes LLM Agents Off the Rails](https://arxiv.org/abs/2510.04860) is preprinted.
@@ -37,6 +38,7 @@ I am actively seeking 2026 summer internships. Let's connect!
 - *2022.09*: &nbsp;🎉🎉 I was bestowed with the Nominee Award for Shanghai University Student Annual Character, a recognition of paramount importance in evaluating the comprehensive aptitudes and societal influence of college students within the Shanghai municipality. Only 20 people in Shanghai receive the award each year (including nominees)!
 - *2021.05*: &nbsp;🎉🎉 I received the Tongji University Pursuit of Excellence Award, the highest honor for undergraduates at Tongji University! Only three undergraduates are able to receive this honor each year!
 - *2020.10*: &nbsp;🎉🎉 I won the Best Paper Award in CUMCM! CUMCM is the largest basic academic competition for undergraduate students in China, and 3 papers were awarded from 42,000+ candidates!
+</div>
 
 
 
