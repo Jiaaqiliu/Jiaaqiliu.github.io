@@ -81,6 +81,16 @@ I am actively seeking 2026 summer internships. Let's connect!
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/simplemem.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://arxiv.org/abs/2601.02553)
+
+**Jiaqi Liu**, Yaofeng Su, Peng Xia, Siwei Han, Zeyu Zheng, Cihang Xie, Mingyu Ding, Huaxiu Yao, arxiv:2601.02553.
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Agent0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
