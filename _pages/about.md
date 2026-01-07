@@ -86,7 +86,7 @@ I am actively seeking 2026 summer internships. Let's connect!
 
 [SimpleMem: Efficient Lifelong Memory for LLM Agents](https://arxiv.org/abs/2601.02553)
 
-**Jiaqi Liu**, Yaofeng Su, Peng Xia, Siwei Han, Zeyu Zheng, Cihang Xie, Mingyu Ding, Huaxiu Yao, arxiv:2601.02553.
+**Jiaqi Liu**$^\star$, Yaofeng Su$^\star$, Peng Xia, Siwei Han, Zeyu Zheng, Cihang Xie, Mingyu Ding, Huaxiu Yao, arxiv:2601.02553.
 
 </div>
 </div>
