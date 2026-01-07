@@ -29,7 +29,7 @@ I am actively seeking 2026 summer internships. Let's connect!
 
 # 🔥 News
 <div class="news-container" markdown="1">
-- *2026.01*: &nbsp; [SimpleMem](https://arxiv.org/abs/2601.02553) is released.
+- *2026.01*: &nbsp; [SimpleMem](https://arxiv.org/abs/2601.02553) is released. [Paper](https://arxiv.org/abs/2601.02553), [Website](https://aiming-lab.github.io/SimpleMem-Page/), [Github](https://github.com/aiming-lab/SimpleMem)
 - *2025.11*: &nbsp; [Agent0](https://arxiv.org/abs/2511.16043), [Agent0-VL](https://arxiv.org/abs/2511.19900) are released.
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026.
 - *2025.10*: &nbsp; [Alignment Tipping Process: How Self-Evolution Pushes LLM Agents Off the Rails](https://arxiv.org/abs/2510.04860) is preprinted.
