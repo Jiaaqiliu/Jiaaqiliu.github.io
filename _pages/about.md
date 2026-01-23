@@ -24,8 +24,6 @@ My research interests include  LLM/VLM, RL , and embodied AI. And my research go
 
 Besides, I am deeply interested in modeling and analyzing LLM reasoning from a geometric and dynamical systems perspective. Recently, I have been actively exploring how post-training signals, such as RL, reshape the geometry, stability of these reasoning dynamics. If you are interested in related questions, I am always happy to connect and exchange ideas.
 
-I am actively seeking 2026 summer internships. Let's connect!
-
 
 # 🔥 News
 <div class="news-container" markdown="1">
