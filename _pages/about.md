@@ -63,7 +63,7 @@ Besides, I am deeply interested in modeling and analyzing LLM reasoning from a g
 
 [Mimicking the Physicist's Eye:A VLM-centric Approach for Physics Formula Discovery (VIPER-R1)](https://arxiv.org/abs/2508.17380)
 
-**Jiaqi Liu**,  Songning Lai, Pengze Li, Di Yu, Wenjie Zhou, Yiyang Zhou, Peng Xia, Zijun Wang, Xi Chen, Shixiang Tang, Lei Bai, Wanli Ouyang, Mingyu Ding, Huaxiu Yao, Aoran Wang, accepted by NeurIPS 2025 Efficient Reasoning Workshop, submitted to ICLR 2026.
+**Jiaqi Liu**,  Songning Lai, Pengze Li, Di Yu, Wenjie Zhou, Yiyang Zhou, Peng Xia, Zijun Wang, Xi Chen, Shixiang Tang, Lei Bai, Wanli Ouyang, Mingyu Ding, Huaxiu Yao, Aoran Wang, accepted by NeurIPS 2025 Efficient Reasoning Workshop.
 
 </div>
 </div>
