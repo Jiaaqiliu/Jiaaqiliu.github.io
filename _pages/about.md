@@ -27,7 +27,8 @@ Besides, I am deeply interested in modeling and analyzing LLM reasoning from a g
 
 # 🔥 News
 <div class="news-container" markdown="1">
-- *2026.01*: &nbsp; [SimpleMem](https://arxiv.org/abs/2601.02553) is released. [Paper](https://arxiv.org/abs/2601.02553), [Website](https://aiming-lab.github.io/SimpleMem-Page/), [Github](https://github.com/aiming-lab/SimpleMem)
+- *2026.03*: &nbsp;🔥 We released [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw), a fully automated research pipeline that turns a single idea into a conference-ready paper — plug it into [OpenClaw](https://github.com/aiming-lab) or any agent framework and let it research for you! [Github](https://github.com/aiming-lab/AutoResearchClaw). *Paper is coming soon.* ![GitHub stars](https://img.shields.io/github/stars/aiming-lab/AutoResearchClaw?style=social)
+- *2026.01*: &nbsp; [SimpleMem](https://arxiv.org/abs/2601.02553) is released. [Paper](https://arxiv.org/abs/2601.02553), [Website](https://aiming-lab.github.io/SimpleMem-Page/), [Github](https://github.com/aiming-lab/SimpleMem) ![GitHub stars](https://img.shields.io/github/stars/aiming-lab/SimpleMem?style=social)
 - *2025.11*: &nbsp; [Agent0](https://arxiv.org/abs/2511.16043), [Agent0-VL](https://arxiv.org/abs/2511.19900) are released.
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026.
 - *2025.10*: &nbsp; [Alignment Tipping Process: How Self-Evolution Pushes LLM Agents Off the Rails](https://arxiv.org/abs/2510.04860) is preprinted.
