@@ -27,6 +27,7 @@ Besides, I am deeply interested in modeling and analyzing LLM reasoning from a g
 
 # 🔥 News
 <div class="news-container" markdown="1">
+- *2026.04*: &nbsp;🎉🎉 Three papers are accepted by ICML 2026.
 - *2026.03*: &nbsp;🔥 We released [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw), a fully automated research pipeline that turns a single idea into a conference-ready paper — plug it into [OpenClaw](https://github.com/aiming-lab) or any agent framework and let it research for you! [Github](https://github.com/aiming-lab/AutoResearchClaw). *Paper is coming soon.* ![GitHub stars](https://img.shields.io/github/stars/aiming-lab/AutoResearchClaw?style=social)
 - *2026.01*: &nbsp; [SimpleMem](https://arxiv.org/abs/2601.02553) is released. [Paper](https://arxiv.org/abs/2601.02553), [Website](https://aiming-lab.github.io/SimpleMem-Page/), [Github](https://github.com/aiming-lab/SimpleMem) ![GitHub stars](https://img.shields.io/github/stars/aiming-lab/SimpleMem?style=social)
 - *2025.11*: &nbsp; [Agent0](https://arxiv.org/abs/2511.16043), [Agent0-VL](https://arxiv.org/abs/2511.19900) are released. [Github](https://github.com/aiming-lab/Agent0) ![GitHub stars](https://img.shields.io/github/stars/aiming-lab/Agent0?style=social)
@@ -59,6 +60,50 @@ Besides, I am deeply interested in modeling and analyzing LLM reasoning from a g
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/autoresearchclaw.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AutoResearchClaw: Self-Reinforcing Autonomous Research with Human-AI Collaboration](https://arxiv.org/abs/2605.20025)
+
+**Jiaqi Liu**, Shi Qiu, Mairui Li, Bingzhou Li, Haonian Ji, Siwei Han, Xinyu Ye, Peng Xia, ..., Caiming Xiong, James Zou, Zeyu Zheng, Cihang Xie, Mingyu Ding, Huaxiu Yao, arxiv:2605.20025.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/evomem.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EvolveMem: Self-Evolving Memory Architecture via AutoResearch for LLM Agents](https://arxiv.org/abs/2605.13941)
+
+**Jiaqi Liu**, Xinyu Ye, Peng Xia, Zeyu Zheng, Cihang Xie, Mingyu Ding, Huaxiu Yao, arxiv:2605.13941.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Omni-mem.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory](https://arxiv.org/abs/2604.01007)
+
+**Jiaqi Liu**, Zipeng Ling, Shi Qiu, Yanqing Liu, Siwei Han, Peng Xia, Haoqin Tu, Zeyu Zheng, Cihang Xie, Charles Fleming, Mingyu Ding, Huaxiu Yao, arxiv:2604.01007.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/skillRL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning](https://arxiv.org/abs/2602.08234)
+
+Peng Xia, Jianwen Chen, Hanyang Wang, **Jiaqi Liu**, Kaide Zeng, Yu Wang, Siwei Han, Yiyang Zhou, Xujiang Zhao, Haifeng Chen, Zeyu Zheng, Cihang Xie, Huaxiu Yao, ICLR 2026 Workshop on MemAgents (Oral).
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Fig_overall_VIPER.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -75,7 +120,7 @@ Besides, I am deeply interested in modeling and analyzing LLM reasoning from a g
 
 [Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning](https://arxiv.org/abs/2511.19900)
 
-**Jiaqi Liu**, Kaiwen Xiong, Peng Xia, Yiyang Zhou, Haonian Ji, Lu Feng, Siwei Han, Mingyu Ding, Huaxiu Yao, arxiv:2511.19900.
+**Jiaqi Liu**, Kaiwen Xiong, Peng Xia, Yiyang Zhou, Haonian Ji, Lu Feng, Siwei Han, Mingyu Ding, Huaxiu Yao, ICML 2026.
 
 </div>
 </div>
@@ -85,7 +130,7 @@ Besides, I am deeply interested in modeling and analyzing LLM reasoning from a g
 
 [SimpleMem: Efficient Lifelong Memory for LLM Agents](https://arxiv.org/abs/2601.02553)
 
-**Jiaqi Liu**$^\star$, Yaofeng Su$^\star$, Peng Xia, Siwei Han, Zeyu Zheng, Cihang Xie, Mingyu Ding, Huaxiu Yao, arxiv:2601.02553.
+**Jiaqi Liu**$^\star$, Yaofeng Su$^\star$, Peng Xia, Siwei Han, Zeyu Zheng, Cihang Xie, Mingyu Ding, Huaxiu Yao, ICML 2026.
 
 </div>
 </div>
@@ -96,7 +141,7 @@ Besides, I am deeply interested in modeling and analyzing LLM reasoning from a g
 
 [Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning](https://arxiv.org/abs/2511.16043)
 
-Peng Xia, Kaide Zeng, **Jiaqi Liu**, Can Qin, Fang Wu, Yiyang Zhou, Caiming Xiong, Huaxiu Yao, arxiv:2511.16043.
+Peng Xia, Kaide Zeng, **Jiaqi Liu**, Can Qin, Fang Wu, Yiyang Zhou, Caiming Xiong, Huaxiu Yao, ICLR 2026 Workshop on RSI (Oral).
 
 </div>
 </div>
@@ -107,7 +152,7 @@ Peng Xia, Kaide Zeng, **Jiaqi Liu**, Can Qin, Fang Wu, Yiyang Zhou, Caiming Xion
 
 [Mixture of Horizons in Action Chunking](https://arxiv.org/abs/2511.19433)
 
-Dong Jing, Gang Wang, **Jiaqi Liu**, Weiliang Tang, Zelong Sun, Yunchao Yao, Zhenyu Wei, Yunhui Liu, Zhiwu Lu, Mingyu Ding, arxiv:2511.19433.
+Dong Jing, Gang Wang, **Jiaqi Liu**, Weiliang Tang, Zelong Sun, Yunchao Yao, Zhenyu Wei, Yunhui Liu, Zhiwu Lu, Mingyu Ding, ICML 2026.
 
 </div>
 </div>
